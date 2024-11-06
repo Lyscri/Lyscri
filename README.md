@@ -3,22 +3,19 @@
 </div>
 
 <div align="center">
-<img width="1050" alt="banner git" src="[https://github.com/user-attachments/assets/0ae9b11e-b422-4fcb-a906-760fb5581e05](https://www.wallpaperflare.com/black-background-with-text-overlay-code-dark-humor-minimalism-wallpaper-mal/download)">
+<img width="1050" alt="banner git" src="">
 </div>
-
-[![GitHub followers](https://img.shields.io/github/followers/edgar-alvarez-checo?style=social)](https://github.com/edgar-alvarez-checo)
 
 ---
 
 🌌 **Code Explorer & Idea Builder**
 
-I'm Edgar Álvarez, a **web and desktop application developer** passionate about turning ideas into functional and engaging experiences. My code does more than solve problems—it brings concepts to life!
+I'm Felix Felipe, a budding web application developer with an obsession for creating ideas that lead to personal and/or functional experiences.
 
 ---
 
 ## 👨🏻‍💻 About me 
-I'm a passionate web and desktop application developer with a specialization in **Java** and **Python**. I love building solutions that combine efficiency and creativity. I have experience in front-end and back-end technologies, including **JavaScript**, **HTML**, **CSS**, **PHP**, **MySQL**, and **SQL Server**.
-
+I'm a web developer specializing in Java, with basic knowledge of Python. On both the front-end and back-end, I have expertise in JavaScript, HTML, CSS, PHP, MySQL, and SQL Server.
 I'm always looking for new challenges and opportunities to improve my skills and contribute with **innovative** solutions. I'm here to make ideas come to life in code!
 
 ---
@@ -32,12 +29,7 @@ I'm always looking for new challenges and opportunities to improve my skills and
   
 </p>
 
-### **Frameworks & Libraries**
 
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=bootstrap,spring" />
-  
-</p>
 
 ### **Databases**
 
@@ -49,32 +41,32 @@ I'm always looking for new challenges and opportunities to improve my skills and
 ### **Development Tools**
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode" />
 
 </p>
 
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/edgar-alvarez-checo">
-    <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=edgar-alvarez-checo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Lyscri">
+    <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Lyscri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/edgar-alvarez-checo">
-    <img width="49.5%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=edgar-alvarez-checo&theme=algolia"/>
+  <a href="https://github.com/Lyscri">
+    <img width="49.5%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lyscri&theme=algolia"/>
   </a>
 </p>
 
 ---
 
 ## 🌱 Forever Learning
-I'm always exploring emerging technologies and design patterns. My goal: to combine **efficiency** and **innovation** in every line of code.
+I'm always browsing the internet for new features and future technologies, with the goal of becoming a software developer.
 
 ---
 
 ### 🤝 Connect with Me!
-> **Email:** edgaralvarez0227@gmail.com  
+> **Email:** felixrafaelff1109@gmail.com  
 
 ---
 
-> 🌠 _"Coding is not just a skill, it's a journey into the unknown and the thrill of creating something from nothing."_ - Edgar Álvarez
+> 🌠 _**"Never give up on something you really want. It's hard to wait, but it's harder to regret."** _ -Felix Felipe
 
