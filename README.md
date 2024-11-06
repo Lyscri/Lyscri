@@ -2,8 +2,6 @@
 <h1 align="center">Hello, I'm Felix.Dev <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://www.wallpaperflare.com/black-background-with-text-overlay-code-dark-humor-minimalism-wallpaper-mal/download)" width="35"></h1>
 </div>
 
-<div align="center">
-<img width="1050" alt="banner git" src="">
 </div>
 
 ---
