@@ -1,9 +1,6 @@
 <div align="center">
-<h1 align="center">Hello, I'm Felix.Dev <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://www.wallpaperflare.com/black-background-with-text-overlay-code-dark-humor-minimalism-wallpaper-mal/download)" width="35"></h1>
-</div>
-<img width="1050" alt="banner git" src="https://th.bing.com/th/id/R.38d4c190c7aa9085fff3a301e1041837?rik=%2f8Y0eZTdgB7p1w&riu=http%3a%2f%2fwww.publicdomainpictures.net%2fpictures%2f190000%2fvelka%2fblack-background-1468370534d5s.jpg&ehk=eA4xvYoBRxONq7xR5ZHrfYPCHj3xXDirdaxRntUp3RI%3d&risl=&pid=ImgRaw&r=0>
-">
-</div>
+<h1 align="center">Hello, I'm Felix.Dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 
 ---
 
