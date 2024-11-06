@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm Felix.Dev <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://www.wallpaperflare.com/black-background-with-text-overlay-code-dark-humor-minimalism-wallpaper-mal/download)" width="35"></h1>
 </div>
-<img src = https://static.vecteezy.com/system/resources/previews/000/370/719/large_2x/black-background-vector.png >
+<img src = https://static.vecteezy.com/system/resources/previews/000/370/719/large_2x/black-background-vector.png  heigth = 120>
 </div>
 
 ---
