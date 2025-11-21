@@ -21,7 +21,7 @@ I'm always looking for new challenges and opportunities to improve my skills and
 ### **Languages**
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,py,js,php,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,ts" />
   
 </p>
 
