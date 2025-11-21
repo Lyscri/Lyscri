@@ -11,7 +11,7 @@ I'm Felix Felipe, a budding web application developer with an obsession for crea
 ---
 
 ## 👨🏻‍💻 About me 
-I'm a web developer specializing in Java, with basic knowledge of Python. On both the front-end and back-end, I have expertise in JavaScript, HTML, CSS, PHP, MySQL, and SQL Server.
+I'm a web developer specializing in Java, with basic knowledge of Python. On both the front-end and back-end, I have expertise in JavaScript, HTML, CSS, MySQL, and SQL Server.
 I'm always looking for new challenges and opportunities to improve my skills and contribute with **innovative** solutions. I'm here to make ideas come to life in code!
 
 ---
