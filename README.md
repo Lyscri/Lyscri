@@ -16,7 +16,7 @@ I'm always looking for new challenges and opportunities to improve my skills and
 
 ---
 
-## 📖 Technologies & Tools
+## 📖 Stack
 
 ### **Languages**
 
@@ -30,7 +30,7 @@ I'm always looking for new challenges and opportunities to improve my skills and
 ### **Databases**
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlserver" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
 </p>
 
