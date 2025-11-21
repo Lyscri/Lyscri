@@ -15,6 +15,14 @@ I'm a web developer specializing in Java, with basic knowledge of Python. On bot
 I'm always looking for new challenges and opportunities to improve my skills and contribute with **innovative** solutions. I'm here to make ideas come to life in code!
 
 ---
+<p align="center">
+  <a href="https://github.com/Lyscri">
+    <img src="https://komarev.com/ghpvc/?username=Lyscri&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Lyscri?tab=followers">
+    <img src="https://img.shields.io/github/followers/Lyscri?style=flat-square&logo=github&color=f4511e" alt="GitHub Followers"/>
+  </a>
+</p>
 
 ## 📖 Stack
 
