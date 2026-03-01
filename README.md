@@ -1,76 +1,47 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lyscri /Lyscri /output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lyscri /Lyscri /output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lyscri /Lyscri /output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="center">
-<h1 align="center">Hello, I'm Felix.Dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <img src="https://streak-stats.demolab.com?user=Lyscri &locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
 
-🌌 **Code Explorer & Idea Builder**
+###
 
-I'm Felix Felipe, a budding web application developer with an obsession for creating ideas that lead to personal and/or functional experiences.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+</div>
 
----
+###
 
-## 👨🏻‍💻 About me 
-I'm a web developer specializing in Java, with basic knowledge of Python. On both the front-end and back-end, I have expertise in JavaScript, HTML, CSS, MySQL, and SQL Server.
-I'm always looking for new challenges and opportunities to improve my skills and contribute with **innovative** solutions. I'm here to make ideas come to life in code!
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
----
-<p align="center">
-  <a href="https://github.com/Lyscri">
-    <img src="https://komarev.com/ghpvc/?username=Lyscri&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Lyscri?tab=followers">
-    <img src="https://img.shields.io/github/followers/Lyscri?style=flat-square&logo=github&color=f4511e" alt="GitHub Followers"/>
-  </a>
-</p>
-
-## 📖 Stack
-
-### **Languages**
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,ts" />
-  
-</p>
-
-
-
-### **Databases**
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-</p>
-
-### **Development Tools**
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode" />
-
-</p>
-
-### ⚙️ GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Lyscri">
-    <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Lyscri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Lyscri">
-    <img width="49.5%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lyscri&theme=algolia"/>
-  </a>
-</p>
-
----
-
-## 🌱 Forever Learning
-I'm always browsing the internet for new features and future technologies, with the goal of becoming a software developer.
-
----
-
-### 🤝 Connect with Me!
-> **Email:** felixrafaelff1109@gmail.com  
-
----
-
-> 🌠 _**"Never give up on something you really want. It's hard to wait, but it's harder to regret."** _ -Felix Felipe
-
+###
