@@ -2,7 +2,11 @@
 
 ###
 
+<br clear="both">
 
+<p align="left">I’m a software developer focused on building scalable backend systems and modern web applications. I work primarily with TypeScript, React, Next.js, Spring Boot, SQL Server, and MongoDB, and I enjoy designing efficient database architectures and clean APIs.<br><br>I’m passionate about learning new technologies, improving system performance, and creating reliable solutions. My interests also include cloud infrastructure, automation, and cybersecurity.<br><br>I’m always exploring new tools and pushing my skills further with every project.</p>
+
+###
 
 ---
 <picture>
