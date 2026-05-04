@@ -60,6 +60,6 @@
 ---
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lyscri&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
-</div
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Lyscri&theme=dark&hide_border=true" alt="GitHub Streak" />
+</a>
