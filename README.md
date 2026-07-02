@@ -62,7 +62,7 @@
 
 <div align="center">
  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Lyscri&cache_id=1783020019&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Lyscri&cache_id=1783026188&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
